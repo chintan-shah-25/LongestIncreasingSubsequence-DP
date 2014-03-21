@@ -9,4 +9,4 @@ instance, the longest increasing subsequence of 5 2 8 6 3 6 9 7 is 2 3 6 9
 
 Reference: http://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf
 
-Explanation is great. Please see the java file for my implementation.
+Visit the link if you want to learn more about Dynamic Programing, explanation is great. Please see the java file for my implementation.
